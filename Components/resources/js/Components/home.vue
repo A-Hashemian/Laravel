@@ -1,14 +1,10 @@
 <template>
 
-<div>
+    <div>
+          <h1>
+            vuejs componets
 
-<h1>
-  vuejs componets 
-
-</h1>
-</div>
-
-
-
+          </h1>
+    </div>
 
 </template>
