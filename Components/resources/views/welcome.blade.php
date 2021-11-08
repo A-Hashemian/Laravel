@@ -16,7 +16,7 @@
     </head>
     <body class="antialiased">
       <div id="#app">
-   </home>
+   <home/>
       </div>
 
        <script src="{{asset('js/app.js')}}" charset="utf-8"></script>
